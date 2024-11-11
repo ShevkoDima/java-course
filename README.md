@@ -1,1 +1,1 @@
-# java-course
+# My name is Dima,30. Ima Working in IT as QA fullstack. Whanna switch to the java developer role:)
