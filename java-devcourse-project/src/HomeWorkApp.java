@@ -22,7 +22,7 @@ public class HomeWorkApp {
         a = 5;
         b = -10;
         int sum = a + b;
-        if (a + b >= 0) {
+        if (sum >= 0) {
             System.out.println("The sum of " + a + " and " + b + " = " + sum + " and it is positive");
         } else {
             System.out.println("The sum of " + a + " and " + b + " = " + sum + " and it is negative");
