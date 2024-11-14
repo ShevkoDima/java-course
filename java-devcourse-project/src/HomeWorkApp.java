@@ -33,7 +33,7 @@ public class HomeWorkApp {
         int value = 101;
         if (value <= 0) {
             System.out.println("RED");
-        } else if (value > 0 && value <= 100) {
+        } else if (value <= 100) {
             System.out.println("YELLOW");
         } else {
             System.out.println("GREEN");
