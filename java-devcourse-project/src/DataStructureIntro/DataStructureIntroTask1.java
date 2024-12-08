@@ -19,7 +19,7 @@ public class DataStructureIntroTask1 {
         return array;
     }
 
-    static void AddToArray(int array[], int newValue) {
+    static void addToArray(int array[], int newValue) {
         int sizeOfNewArray = array.length + 1;
         int[] newArray = new int[sizeOfNewArray];
         for (int i = 0; i < newArray.length - 1; i++) {
